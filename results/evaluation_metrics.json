@@ -1,0 +1,9 @@
+{
+    "accuracy": 0.9710144927536232,
+    "precision_macro": 0.9718253968253968,
+    "recall_macro": 0.9708598590951533,
+    "f1_macro": 0.9709930252417917,
+    "epochs_run": 27,
+    "learning_rate": 0.001,
+    "batch_size": 32
+}

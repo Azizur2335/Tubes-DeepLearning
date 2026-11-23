@@ -1,0 +1,8 @@
+{
+    "A-Clear Sky": 0,
+    "B-Patterned Clouds": 1,
+    "C-Thin White Clouds": 2,
+    "D-Thick White Clouds": 3,
+    "E-Thick Dark Clouds": 4,
+    "F-Veil Clouds": 5
+}

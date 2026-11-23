@@ -1,0 +1,12 @@
+                      precision    recall  f1-score   support
+
+         A-Clear Sky       1.00      1.00      1.00        35
+  B-Patterned Clouds       1.00      0.97      0.99        35
+ C-Thin White Clouds       0.91      0.97      0.94        33
+D-Thick White Clouds       0.92      0.94      0.93        35
+ E-Thick Dark Clouds       1.00      1.00      1.00        35
+       F-Veil Clouds       1.00      0.94      0.97        34
+
+            accuracy                           0.97       207
+           macro avg       0.97      0.97      0.97       207
+        weighted avg       0.97      0.97      0.97       207
